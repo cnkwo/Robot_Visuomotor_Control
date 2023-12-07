@@ -19,3 +19,7 @@ In response, as input press 2
 3. Now everything is setup, inside the scripts folder open a 4th terminal and run the following:
 
     - rosrun robot_control_simulation solution
+
+## For more details on the project feel free to take a look at the project report:
+
+[Robot Visuomotor Control Report.pdf](https://github.com/cnkwo/Robot_Visuomotor_Control/blob/main/Robot%20Visuomotor%20Control%20Report.pdf).
